@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1591794494 source:d:\c++\laby\laba 13.a\main.cpp
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cmath>
+
