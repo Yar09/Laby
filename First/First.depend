@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1592214336 source:d:\c++\laby\first\main.cpp
+	<iostream>
+	<iostream>
+	<stdlib.h>
+	<time.h>
+
